@@ -1,6 +1,6 @@
 ## Assignment 5 Pyber - Soo Bin
 
-For this assignment, I created a bubble plot that demonstrates average fare per total number of rides for each city. Moreover, several pie charts that show proportions of each city type by total fares, total rides, and total drivers. For codes and charts, please refer to pyber_SooBin.ipynb.<br/>
+For this assignment, I created a bubble plot that demonstrates average fare per total number of rides for each city. Moreover, several pie charts that show proportions of each city type by total fares, total rides, and total drivers are also created to study the relationships between indices. For codes and charts, please refer to pyber_SooBin.ipynb.<br/>
 <br>
 The main observations for the analysis is as follows:<br/>
 1. Average fare is in rural cities is the highest when compared to that of other city types.<br>
